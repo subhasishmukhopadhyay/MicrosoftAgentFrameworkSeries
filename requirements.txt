@@ -1,0 +1,13 @@
+# Microsoft Agent Framework and Azure AI Dependencies
+agent-framework>=0.1.0
+azure-ai-projects>=1.0.0
+azure-identity>=1.15.0
+
+# Environment variables management
+python-dotenv>=1.0.0
+
+# Async support
+aiohttp>=3.9.0
+
+# Optional: For enhanced logging and debugging
+azure-core>=1.30.0
