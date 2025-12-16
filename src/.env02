@@ -1,0 +1,5 @@
+# Environment variables for Demo 02: Use Existing Agent
+# Update these values with your Azure AI Foundry project details
+
+AZURE_AI_PROJECT_ENDPOINT=https://<project-name>-resource.services.ai.azure.com/api/projects/a2ademo
+AZURE_AI_AGENT_ID=<agent-id>

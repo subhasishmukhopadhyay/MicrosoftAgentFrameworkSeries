@@ -1,0 +1,7 @@
+# Environment variables for Demo 03: Direct Azure OpenAI Chat
+# Update these values with your Azure OpenAI resource details
+
+AZURE_OPENAI_ENDPOINT=https://<project-name>-resource.cognitiveservices.azure.com/
+AZURE_OPENAI_CHAT_DEPLOYMENT_NAME=gpt-4o
+AZURE_OPENAI_API_KEY=
+AZURE_OPENAI_API_VERSION=2024-12-01-preview

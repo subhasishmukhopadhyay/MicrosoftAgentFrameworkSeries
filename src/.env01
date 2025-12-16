@@ -1,0 +1,5 @@
+# Environment variables for Demo 01: Create Azure AI Foundry Agent
+# Update these values with your Azure AI Foundry project details
+
+AZURE_AI_PROJECT_ENDPOINT=https://<project-name>-resource.services.ai.azure.com/api/projects/a2ademo
+AZURE_AI_MODEL_DEPLOYMENT_NAME=gpt-4o
